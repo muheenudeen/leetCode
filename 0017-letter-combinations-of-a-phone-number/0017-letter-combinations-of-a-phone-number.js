@@ -4,7 +4,6 @@
  */
 var letterCombinations = function (digits) {
     if (digits.length === 0) return [];
-
     const keyboard = {
         "2": "abc",
         "3": "def",
