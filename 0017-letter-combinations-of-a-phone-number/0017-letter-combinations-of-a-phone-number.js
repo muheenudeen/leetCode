@@ -14,7 +14,6 @@ var letterCombinations = function (digits) {
         "8": "tuv",
         "9": "wxyz" 
     };
-
     const output = [];
     const backtrack = (current, index) => {
         if (index === digits.length) {
