@@ -27,7 +27,6 @@ var letterCombinations = function (digits) {
             backtrack(current + letter, index + 1);
         }
     };
-
     backtrack('', 0);
     return output;
 };
