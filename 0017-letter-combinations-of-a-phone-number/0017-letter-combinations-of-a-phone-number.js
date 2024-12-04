@@ -13,7 +13,7 @@ var letterCombinations = function (digits) {
         "6": "mno",
         "7": "pqrs",
         "8": "tuv",
-        "9": "wxyz"
+        "9": "wxyz" 
     };
 
     const output = [];
