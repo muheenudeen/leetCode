@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muheenudeen/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,5 +51,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
