@@ -7,15 +7,12 @@ var rotateRight = function(head, k){
           pt = pt.next 
           }
 
-    //we're using modulo for the edge case of if the length is smaller than k
     k = k % length 
     
-    //edge case -> if k is 0, we don't need a rotation
     if(k === 0){
         return head 
     } 
     
-    //find the new tail
     let newTail = head
     let spaces = length - k 
     while(spaces > 1){
