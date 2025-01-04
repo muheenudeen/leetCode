@@ -1,5 +1,4 @@
 var rotateRight = function(head, k){
-    //find the length
     let length = 1 
     let pt = head
     while(pt && pt.next){
