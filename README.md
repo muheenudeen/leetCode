@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/muheenudeen/leetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/muheenudeen/leetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/muheenudeen/leetCode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/muheenudeen/leetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
