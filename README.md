@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/muheenudeen/leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muheenudeen/leetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/muheenudeen/leetCode/tree/master/0043-multiply-strings) |
+| [0263-ugly-number](https://github.com/muheenudeen/leetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/muheenudeen/leetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
