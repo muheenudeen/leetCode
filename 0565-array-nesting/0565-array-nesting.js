@@ -12,7 +12,7 @@ const arrayNesting = (nums) => {
         }
         result = result < obj[nums[i]] ? obj[nums[i]] : result;
     }
-    return result;
+    return result
 };
 
 
