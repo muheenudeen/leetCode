@@ -12,6 +12,5 @@ function inorderTraversal(root) {
       root = root.right;
     }
   }
-
   return res;
 }
