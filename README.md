@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muheenudeen/leetCode/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/muheenudeen/leetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/muheenudeen/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muheenudeen/leetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/muheenudeen/leetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/muheenudeen/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/muheenudeen/leetCode/tree/master/0476-number-complement) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
