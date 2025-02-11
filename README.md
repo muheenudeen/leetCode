@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/muheenudeen/leetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muheenudeen/leetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/muheenudeen/leetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/muheenudeen/leetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/muheenudeen/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [0565-array-nesting](https://github.com/muheenudeen/leetCode/tree/master/0565-array-nesting) |
 ## Two Pointers
