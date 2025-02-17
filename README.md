@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/muheenudeen/leetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0434-number-of-segments-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
