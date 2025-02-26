@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/muheenudeen/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0434-number-of-segments-in-a-string) |
 ## Backtracking
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/muheenudeen/leetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
