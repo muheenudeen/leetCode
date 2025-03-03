@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muheenudeen/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
+| [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0565-array-nesting](https://github.com/muheenudeen/leetCode/tree/master/0565-array-nesting) |
 ## Two Pointers
 |  |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/muheenudeen/leetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Stack
 |  |
