@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 ## String Matching
 |  |
