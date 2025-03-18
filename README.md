@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/muheenudeen/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/muheenudeen/leetCode/tree/master/0476-number-complement) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
