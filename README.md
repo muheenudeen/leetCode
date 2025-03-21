@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/muheenudeen/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/muheenudeen/leetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/muheenudeen/leetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muheenudeen/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/muheenudeen/leetCode/tree/master/0257-binary-tree-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/muheenudeen/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muheenudeen/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/muheenudeen/leetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/muheenudeen/leetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/muheenudeen/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muheenudeen/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/muheenudeen/leetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/muheenudeen/leetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0565-array-nesting](https://github.com/muheenudeen/leetCode/tree/master/0565-array-nesting) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/muheenudeen/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/muheenudeen/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/muheenudeen/leetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/muheenudeen/leetCode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
