@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/muheenudeen/leetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
+| [1965-sum-of-digits-in-base-k](https://github.com/muheenudeen/leetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
