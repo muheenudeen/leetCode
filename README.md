@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/muheenudeen/leetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/muheenudeen/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/muheenudeen/leetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/muheenudeen/leetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/muheenudeen/leetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/muheenudeen/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/muheenudeen/leetCode/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0792-binary-search](https://github.com/muheenudeen/leetCode/tree/master/0792-binary-search) |
 ## Stack
