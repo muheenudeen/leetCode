@@ -16,6 +16,7 @@ var summaryRanges = function(nums) {
             }
             start=i+1
         }
+        
     }
     return result
 };
