@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/muheenudeen/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/muheenudeen/leetCode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/muheenudeen/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0565-array-nesting](https://github.com/muheenudeen/leetCode/tree/master/0565-array-nesting) |
