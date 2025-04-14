@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0099-recover-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/muheenudeen/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/muheenudeen/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/muheenudeen/leetCode/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/muheenudeen/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0792-binary-search](https://github.com/muheenudeen/leetCode/tree/master/0792-binary-search) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muheenudeen/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/muheenudeen/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
