@@ -5,6 +5,7 @@
  *               otherwise return 0
  */
 
+
 /**
  * @param {number} n
  * @return {number}
