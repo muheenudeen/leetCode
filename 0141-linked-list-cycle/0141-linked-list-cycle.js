@@ -10,5 +10,6 @@ var hasCycle = function(head) {
         fast = fast.next.next;
     }
 
+
     return true;
 };
