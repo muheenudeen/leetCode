@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muheenudeen/leetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muheenudeen/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/muheenudeen/leetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muheenudeen/leetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/muheenudeen/leetCode/tree/master/0742-to-lower-case) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/muheenudeen/leetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/muheenudeen/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/muheenudeen/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0565-array-nesting](https://github.com/muheenudeen/leetCode/tree/master/0565-array-nesting) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/muheenudeen/leetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0792-binary-search](https://github.com/muheenudeen/leetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
