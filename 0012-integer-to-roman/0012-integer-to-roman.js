@@ -11,7 +11,7 @@ var intToRoman = function(num) {
     ];
 
 
-    let res= ''
+    let res= '';
     for (const [value, symbol] of valueSymbols) {
         if(num === 0) break;
         const count = Math.floor(num / value)
