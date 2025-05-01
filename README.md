@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/muheenudeen/leetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/muheenudeen/leetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/muheenudeen/leetCode/tree/master/0389-find-the-difference) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/muheenudeen/leetCode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/muheenudeen/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/muheenudeen/leetCode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/muheenudeen/leetCode/tree/master/0303-range-sum-query-immutable) |
