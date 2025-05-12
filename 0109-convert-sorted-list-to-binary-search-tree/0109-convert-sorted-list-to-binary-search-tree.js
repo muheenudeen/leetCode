@@ -28,8 +28,6 @@ var sortedListToBST = function(head) {
         node.right= treeify(mid +1, j)
         return node
     }
-
     curr=head
     return treeify(1, count)
-
 };
