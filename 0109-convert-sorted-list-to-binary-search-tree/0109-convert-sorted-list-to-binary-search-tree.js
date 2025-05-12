@@ -18,7 +18,6 @@
  * @return {TreeNode}
  */
 var sortedListToBST = function(head) {
-    
     let curr = head, count =0
     while (curr) curr=curr.next, count++
     const treeify = (i,j) => {
@@ -28,7 +27,6 @@ var sortedListToBST = function(head) {
         node.val=curr.val, curr=curr.next
         node.right= treeify(mid +1, j)
         return node
-
     }
 
     curr=head
