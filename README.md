@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muheenudeen/leetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muheenudeen/leetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muheenudeen/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/muheenudeen/leetCode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0125-valid-palindrome) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muheenudeen/leetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/muheenudeen/leetCode/tree/master/0409-longest-palindrome) |
 ## String Matching
