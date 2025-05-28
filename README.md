@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/muheenudeen/leetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/muheenudeen/leetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/muheenudeen/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/muheenudeen/leetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/muheenudeen/leetCode/tree/master/0078-subsets) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muheenudeen/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/muheenudeen/leetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/muheenudeen/leetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/muheenudeen/leetCode/tree/master/0392-is-subsequence) |
@@ -232,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muheenudeen/leetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/muheenudeen/leetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
